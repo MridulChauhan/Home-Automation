@@ -3,7 +3,7 @@ Arduino based home automation
 
 #COMPONENTS
 
-Arduino Uno,Ultrasonic Sensor(HC-SR04),PIR motion sensor,Bluetooth sensor(HC-05),Temperature and Humidity sensor(DHT11),Smoke Sensor(MQ2)
+Arduino Uno,Ultrasonic Sensor(HC-SR04),PIR motion sensor,Bluetooth sensor(HC-05),Temperature and Humidity sensor(DHT11),Smoke Sensor(MQ2),Servo motor
 
 #ABSTRACT
 
@@ -20,5 +20,6 @@ Remote user display of the various conditions using ThingSpeak cloud.
 Ultrasonic sensor is used to improve security systems.
 DHT11 temperature sensor can be used to measure temperature of different parts of house.
 PIR motion sensors can also be used in security systems to catch burglars.
+Smoke sensor for fire protection.
 HC-05 Bluetooth module controls every device in the house wirelessly.
 ThingSpeak cloud can be used for remote users.
